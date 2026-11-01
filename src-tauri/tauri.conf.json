@@ -84,7 +84,7 @@
     "updater": {
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDRENjlDNDNCN0E1NkM1RApSV1JkYktXM1E1eldCTWNoa0g1Z2JNZWVGQnZHV21kQXZSZ0tKYUpyWnZiaGNMWkZWZHpQbUVBWAo=",
       "endpoints": [
-        "https://github.com/katapultlabs/Handy/releases/latest/download/latest.json"
+        "https://github.com/atomsmasher81/Handy/releases/latest/download/latest.json"
       ]
     }
   }
